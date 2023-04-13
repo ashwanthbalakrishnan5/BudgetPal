@@ -1,0 +1,235 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "I just spent "
+    }, {
+      "text": "4,000 rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    }, {
+      "text": " on a new "
+    }, {
+      "text": "air purifier",
+      "parameterId": "ExpenseCategory"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I just paid "
+    }, {
+      "text": "1,500 rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    }, {
+      "text": " for a new "
+    }, {
+      "text": "bike lock",
+      "parameterId": "ExpenseCategory"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I just paid "
+    }, {
+      "text": "500 rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    }, {
+      "text": " for a "
+    }, {
+      "text": "music streaming subscription",
+      "parameterId": "ExpenseCategory"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I just paid "
+    }, {
+      "text": "2,500 rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    }, {
+      "text": " for a "
+    }, {
+      "text": "driving lesson",
+      "parameterId": "ExpenseCategory"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I just paid "
+    }, {
+      "text": "4,000 rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    }, {
+      "text": " for a "
+    }, {
+      "text": "music festival ticket",
+      "parameterId": "ExpenseCategory"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I just spent "
+    }, {
+      "text": "500 rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    }, {
+      "text": " on a "
+    }, {
+      "text": "gift",
+      "parameterId": "ExpenseCategory"
+    }, {
+      "text": " for a friend"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I just bought a new "
+    }, {
+      "text": "laptop",
+      "parameterId": "ExpenseCategory"
+    }, {
+      "text": " for "
+    }, {
+      "text": "60,000 rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I paid "
+    }, {
+      "text": "1000 rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    }, {
+      "text": " for my "
+    }, {
+      "text": "gym",
+      "parameterId": "ExpenseCategory"
+    }, {
+      "text": " membership today"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I spent "
+    }, {
+      "text": "1000 rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    }, {
+      "text": " on "
+    }, {
+      "text": "fuel",
+      "parameterId": "ExpenseCategory"
+    }, {
+      "text": " today"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to enter my expense of "
+    }, {
+      "text": "1000 rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    }, {
+      "text": " for "
+    }, {
+      "text": "clothing",
+      "parameterId": "ExpenseCategory"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Please enter my expense of "
+    }, {
+      "text": "500 rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    }, {
+      "text": " for "
+    }, {
+      "text": "movie tickets",
+      "parameterId": "ExpenseCategory"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Enter my expense of ",
+      "auto": true
+    }, {
+      "text": "3000 rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    }, {
+      "text": " for grocery ",
+      "auto": true
+    }, {
+      "text": "shopping",
+      "parameterId": "ExpenseCategory",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "That "
+    }, {
+      "text": "hotdog",
+      "parameterId": "ExpenseCategory"
+    }, {
+      "text": " was "
+    }, {
+      "text": "130rs",
+      "parameterId": "unit-currency"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "My "
+    }, {
+      "text": "earphone",
+      "parameterId": "ExpenseCategory"
+    }, {
+      "text": " cost "
+    }, {
+      "text": "Rs.600",
+      "parameterId": "unit-currency"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I spent "
+    }, {
+      "text": "20 rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    }, {
+      "text": " on "
+    }, {
+      "text": "swiggy",
+      "parameterId": "ExpenseCategory"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

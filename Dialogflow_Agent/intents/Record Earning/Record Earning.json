@@ -1,0 +1,9 @@
+{
+  "name": "06956b23-f41e-409f-b028-b436706ebadc",
+  "displayName": "Record Earning",
+  "parameters": [ {
+    "id": "unit-currency",
+    "entityType": "@sys.unit-currency"
+  } ],
+  "priority": 500000
+}

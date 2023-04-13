@@ -1,0 +1,12 @@
+{
+  "name": "3ecaf0eb-04d0-484a-ace3-727bddfac1bc",
+  "displayName": "ExpenseRecord",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "webhook": "ExpenseEntry",
+    "tag": "expense",
+    "returnPartialResponses": true
+  }
+}

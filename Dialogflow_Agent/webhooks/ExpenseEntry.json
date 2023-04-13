@@ -1,0 +1,10 @@
+{
+  "name": "4d85c8b0-a5cb-4c20-bc41-72d23532a990",
+  "displayName": "ExpenseEntry",
+  "genericWebService": {
+    "uri": "https://asia-south1-solvingforindia.cloudfunctions.net/dialogflow_webhook"
+  },
+  "timeout": {
+    "seconds": 10
+  }
+}

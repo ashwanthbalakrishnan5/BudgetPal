@@ -1,0 +1,51 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "My cash price for the hackathon was "
+    }, {
+      "text": "5 thousand rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "My friend paid me "
+    }, {
+      "text": "rs.300",
+      "parameterId": "unit-currency"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "i got my salary of ",
+      "auto": true
+    }, {
+      "text": "1 lakh rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I earned "
+    }, {
+      "text": "20 rupees",
+      "parameterId": "unit-currency",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "today",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

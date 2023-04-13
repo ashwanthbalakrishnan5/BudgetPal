@@ -1,0 +1,23 @@
+{
+  "entities": [ {
+    "value": "Food",
+    "synonyms": [ "ate", "Bakery", "Beef", "Beverages", "Biscuits", "Bread", "Burgers", "Chicken", "Chocolates", "Coffee", "Cuisine", "Desserts", "eat", "Eggs", "food", "Fruits", "hotel", "Ice Cream", "Juice", "Lamb", "Main Course", "Meal", "Milkshakes", "Pizza", "Pork", "Refreshments", "restaurant ", "Salads", "Sandwiches", "Seafood", "Smoothies", "Snacks", "Soft Drinks", "Soups", "Sweets", "swiggy", "Tea", "Treats", "zomato" ],
+    "languageCode": "en"
+  }, {
+    "value": "Transport",
+    "synonyms": [ "bus", "car", "Carpooling", "diesel", "Fuel", "Licensing", "Motorcycle", "Parking", "petrol", "Private transportation", "Public transportation", "Rental car", "Ride-sharing", "Roadside assistance", "Safari", "Subway", "Taxi", "Toll", "train", "Transport", "Transportation", "Travel", "Uber" ],
+    "languageCode": "en"
+  }, {
+    "value": "Housing",
+    "synonyms": [ "AC unit maintenance expenses", "Air travel", "Cable bill", "Cell phone bill", "Cleaning expenses", "Cooling bill", "Door repair expenses", "Dry cleaning expenses", "Electricity Bill", "Flight", "Garbage bill", "Gas bill", "Heating bill", "Home equity loan expenses", "Home insurance", "Home renovation expenses", "Home security expenses", "Housing-related subscription expenses", "Internet bill", "Laundry expenses", "Maid services expenses", "Mortgage payment", "Phone bill", "Property taxes", "Rent", "Sewage bill", "Utility", "Water bill", "Water line expenses" ],
+    "languageCode": "en"
+  }, {
+    "value": "Shopping",
+    "synonyms": [ "amazon", "Apparel", "Appliances", "Bath towels", "Bedding", "Blu-rays", "Books", "Cameras", "Cleaning supplies", "Clothing", "Computers", "Cookware", "Cosmetics", "Curtains", "Cutlery", "Dinnerware", "Electronics", "flipkart", "Footwear", "Furniture", "Gift cards", "Glassware", "Handbags", "Hats", "Headphones", "Home decor", "Jewelry", "Kitchen towels", "Laptop cases", "Laptops", "Laundry supplies", "Lighting", "Medicine", "Musical instruments", "Newspapers", "Notebooks", "Online Shopping", "Pencils", "Pens", "Perfume", "Personal care products", "Scarves", "Shopping", "Smartphones", "Speakers", "Stationery", "Suitcases", "Sunglasses", "Supplements", "Swimwear", "Tablets", "Televisions", "Umbrellas", "Video games", "Vitamins", "Wallets", "Watches" ],
+    "languageCode": "en"
+  }, {
+    "value": "Others",
+    "synonyms": [ "Others" ],
+    "languageCode": "en"
+  } ]
+}
