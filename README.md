@@ -3,6 +3,10 @@
 
 BudgetPal is an intelligent chatbot that utilizes a state-of-the-art neural network language model to help you track your expenses and set budgets. The chatbot is powered by Dialogflow CX, which provides a highly customizable conversational interface. To ensure high performance and reliability, BudgetPal leverages the power of GCP's AMD instance VM for database storage and website hosting. In addition, the android app is supported by GCP's Cloud Function, which provides a robust and scalable API interface.
 
+## Download the App:
+Download the Android App Here - [BudgetPal](https://github.com/ashwanthbalakrishnan5/BudgetPal/releases/download/V1/budgetPal.deko.apk)
+
+
 ## Features:
 
 * Track your expenses and income with ease
