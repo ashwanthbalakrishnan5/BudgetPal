@@ -6,6 +6,19 @@ BudgetPal is an intelligent chatbot that utilizes a state-of-the-art neural netw
 ## Download the App:
 Download the Android App Here - [BudgetPal](https://github.com/ashwanthbalakrishnan5/BudgetPal/releases/download/V1/budgetPal.deko.apk)
 
+## Usage:
+
+### Expense Entry:
+"I spent 300 rupees on my dinner"  
+"My footwear cost 1200 rupees"    
+
+Note: 
+* Set budget before entring expense
+* Please add the keyword "Rupees" to recognize the currency
+
+### Earning Entry:
+"I got my salary of 30 thousand rupees."  
+"My friend gave me 350 rupees"  
 
 ## Features:
 
